@@ -67,7 +67,7 @@ CREATE TABLE public.properties (
     boiling_point_celsius numeric NOT NULL,
     type_id integer NOT NULL
 );
-
+--
 
 ALTER TABLE public.properties OWNER TO freecodecamp;
 
